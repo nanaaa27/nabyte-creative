@@ -23,7 +23,7 @@ Saat ini, proyek ini difokuskan pada tahap eksplorasi desain dan implementasi fr
 - [ ] Integrasi form kontak.
 
 ## Cara Menjalankan Project Secara Lokal
-1. Clone repository ini: `git clone https://github.com/username-kamu/nabyte.git`
+1. Clone repository ini: `git clone https://github.com/nanaaa27/nabyte-creative.git`
 2. Buka folder proyek.
 3. Jalankan `npm install` untuk menginstal dependensi.
 4. Jalankan `npm start` untuk membuka proyek di browser.
