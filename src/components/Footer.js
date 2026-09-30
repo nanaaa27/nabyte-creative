@@ -308,9 +308,9 @@ window.Footer = () => {
           <div>
             <div className="footer-col-title">Hubungi Kami</div>
             <ul className="footer-link-list">
-              <li><a href="https://wa.me/" target="_blank" rel="noreferrer" className="footer-link">WhatsApp ↗</a></li>
-              <li><a href="https://instagram.com" target="_blank" rel="noreferrer" className="footer-link">Instagram ↗</a></li>
-              <li><a href="mailto:hello@nabyte.creative" className="footer-link">Email Us ↗</a></li>
+              <li><a href="#" target="_blank" rel="noreferrer" className="footer-link">WhatsApp ↗</a></li>
+              <li><a href="#" target="_blank" rel="noreferrer" className="footer-link">Instagram ↗</a></li>
+              <li><a href="#" className="footer-link">Email Us ↗</a></li>
               <li><a href="#form" className="footer-link">Form Proyek ↗</a></li>
             </ul>
           </div>
